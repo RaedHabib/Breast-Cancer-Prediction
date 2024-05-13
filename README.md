@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin (Diagnostic) Dataset Analysis
+# Breast Cancer Wisconsin (Diagnostic) Prediction
 ![image](https://github.com/RaedHabib/Breast-Cancer-Prediction/assets/127057461/62998300-b975-4b3b-9f07-f1209179064c)
 
 ## Project Description
