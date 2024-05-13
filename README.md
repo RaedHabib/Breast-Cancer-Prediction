@@ -11,7 +11,7 @@ This project aims to apply machine learning techniques to the Breast Cancer Wisc
 
 ## Technologies Used
 * Python
-* Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and ucimlrepo
 
 ## Data
 The dataset used in this project is the Original Wisconsin Breast Cancer Database, available at the UCI Machine Learning Repository:<br>
